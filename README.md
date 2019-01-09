@@ -8,7 +8,7 @@ It is able to compute the solution for an 8000 x 8000 matrix in 5 minutes.
 
 Below is a table which shows the time it takes to compute the solution for four different sizes of matrices and different optimization flags.
 
-Size             | No Optim (sec) | -O1 (sec)     | -O2(sec)       | -O3 (sec)
+Size             | No Optim (sec) | -O1 (sec)     | -O2 (sec)       | -O3 (sec)
 ------------- | -------------  | ------------- | -------------  | -------------
 1000          | 1.6e+00        | 4.4e-01  | 4.7e-01   | 3.3e-01
 2000          | 1.3e+01        | 4.6e+00  | 5.1e+00   | 4.9e+00
