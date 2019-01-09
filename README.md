@@ -15,7 +15,7 @@ Size             | No Optim (sec) | -O1 (sec)     | -O2(sec)       | -O3 (sec)
 4000          | 9.9e+01        | 4.1e+01  | 3.9e+01   | 3.8e+01
 8000          | 8.0e+02        | 3.1e+02  | 3.0e+02   | 3.0e+02
 
-TO RUN:
+## To Run:
 
 Download all the files onto your computer. Type "make." Then run linsolve. It will compute the solution for and time the execution for a 1000 x 1000, 2000 x 2000, 4000 x 4000, and 8000 x 8000 matrix. The 8000 x 8000 matrix may take a few minutes to compute
 
